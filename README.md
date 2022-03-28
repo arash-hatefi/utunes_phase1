@@ -33,3 +33,4 @@ POST comments ? song_id <song_id> time <time> comment <comment>
 GET comments ? song_id <song_id>
 ```
 
+Examples of using the commands are available in ```/test_cases```.
